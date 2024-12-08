@@ -2,8 +2,8 @@
     "name": "game-api",
     "main": "server.js",
     "dependencies": {
-        "express": "~4.0.0",
-        "mongoose": "~3.6.13",
+        "express": "~4.21.2",
+        "mongoose": "~8.8.3",
         "body-parser": "~1.0.1",
         "passport" : "~0.1.17",         
 	    "passport-local" : "~0.1.6",    
